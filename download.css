@@ -1,0 +1,26 @@
+html, body {
+    background: #0000ff;
+    text-align: center;
+}
+  
+.finish {
+    Width: 100px;
+    height: 50px;
+    font-size: 25px;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 100px;
+    background-color: #707ff7;
+    transition: all 0.2s ease;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+  
+.finish:active {
+    transform: scale(10.00s);
+    transform: scale(1.50);
+    color:#000000;
+    background-color: #00ffff;
+}
